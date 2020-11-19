@@ -1,0 +1,6 @@
+pygame 1.9.4.dev0
+Hello from the pygame community. https://www.pygame.org/contribute.html
+--SOLVING LEVEL [ 37 ] WITH [ ASTAR AGENT ] for [ 3000 ] ITERATIONS--
+> Calculating solution...
+> Demonstrating solution...
+--GAME WON IN [ 9 ] MOVES--
